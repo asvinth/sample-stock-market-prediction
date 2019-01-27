@@ -19,6 +19,7 @@ Note:
 
 -->matplotlib for ploting our analysed data.
 
-refer dataset file which i have uploaded to learn how to download realtime data as csv.
+      refer dataset file which i have uploaded to learn how to download realtime data as csv.
+      You can try with the dataset which i have given for sample. Its better you try with your own dataset.
 
 
