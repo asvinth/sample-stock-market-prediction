@@ -12,8 +12,11 @@ Dependencies Required
 Note: 
 
 -->csv helps us to read the csv file which we will be downloading from the internet for prediction.
+
 -->numpy is used for the basic calculations on our data
+
 -->scikit-learn is used to build the predictive model.
+
 -->matplotlib for ploting our analysed data.
 
 refer dataset file which i have uploaded to learn how to download realtime data as csv.
